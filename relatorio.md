@@ -1,7 +1,7 @@
 
 # Relatório de Avaliação para ArthurCRodrigues
 
-**Pontuação Total**: 75/100
+**Pontuação Total**: 100/100
 
 ## Detalhamento da Pontuação:
 
@@ -10,18 +10,16 @@
 | Branch Principal          | 25     | Passou |
 | Presença de Commit        | 25     | Passou |
 | Existência do Resumo.txt  | 25     | Passou |
-| Conteúdo do Resumo.txt    | 0     | Falhou |
+| Conteúdo do Resumo.txt    | 25     | Passou |
 
 
 ## Sugestões para Melhoria:
-- **Conteúdo do Resumo**: Garanta que o `resumo.txt` contenha pelo menos 50 palavras com informações relevantes.
+
 
 ## Feedback Detalhado:
-
-Continue com o bom trabalho! Foque nas áreas mencionadas acima e você terá um desempenho melhor na próxima vez. Não se esqueça de fazer commits regulares no seu repositório!
-
+Parabéns! Você passou em todas as verificações. Continue assim, excelente trabalho!
 
 ---
 
-*Relatório gerado em 2025-04-07 00:56:36*
+*Relatório gerado em 2025-04-07 00:57:55*
     
